@@ -14,7 +14,7 @@ Hello! I'm a backend developer with expertise in Java/JavaScript languages. I ha
 
 ## My Projects 🚀
 
-- [Project Name](https://github.com/username/project) - Briefly describe your project.
+- [HandShake App](https://github.com/berktorunDev/HandShakeApp) - Allows users to make decisions more easily when they cannot decide in various situations.
 
 ## Contact Me 📫
 
